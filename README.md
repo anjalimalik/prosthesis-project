@@ -1,2 +1,3 @@
-# bioelectric_prosthesis_control
-Code for hardware based on RaspberryPi to record bioelectric muscle activity for prosthetic limb.
+# Prosthesis Control
+Device capable of recording bioelectric activity of muscles and translate them into computer-understandable input to wirelessly control and give motion commands to virtual prosthetic limb on computer.
+
